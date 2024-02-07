@@ -24,8 +24,4 @@ wget -q https://raw.githubusercontent.com//uwais1990/SakhaVPN/ZX/update.sh && ch
 - SSHWS : 80 / 8880 / 8080 / 2082 / 2095 / 2096
 ```
 
-### `WARNING !`
-```
-jangan di colong babi
-nanti kena hacking mining nangees
 ```
